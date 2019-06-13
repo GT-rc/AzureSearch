@@ -1,0 +1,11 @@
+P:\Practice Code\Azure Search\AzureSearch\AzureSearch\bin\Debug\netcoreapp2.1\AzureSearch.deps.json
+P:\Practice Code\Azure Search\AzureSearch\AzureSearch\bin\Debug\netcoreapp2.1\AzureSearch.runtimeconfig.json
+P:\Practice Code\Azure Search\AzureSearch\AzureSearch\bin\Debug\netcoreapp2.1\AzureSearch.runtimeconfig.dev.json
+P:\Practice Code\Azure Search\AzureSearch\AzureSearch\bin\Debug\netcoreapp2.1\AzureSearch.dll
+P:\Practice Code\Azure Search\AzureSearch\AzureSearch\obj\Debug\netcoreapp2.1\AzureSearch.csprojAssemblyReference.cache
+P:\Practice Code\Azure Search\AzureSearch\AzureSearch\obj\Debug\netcoreapp2.1\AzureSearch.csproj.CoreCompileInputs.cache
+P:\Practice Code\Azure Search\AzureSearch\AzureSearch\obj\Debug\netcoreapp2.1\AzureSearch.AssemblyInfoInputs.cache
+P:\Practice Code\Azure Search\AzureSearch\AzureSearch\obj\Debug\netcoreapp2.1\AzureSearch.AssemblyInfo.cs
+P:\Practice Code\Azure Search\AzureSearch\AzureSearch\bin\Debug\netcoreapp2.1\AzureSearch.pdb
+P:\Practice Code\Azure Search\AzureSearch\AzureSearch\obj\Debug\netcoreapp2.1\AzureSearch.dll
+P:\Practice Code\Azure Search\AzureSearch\AzureSearch\obj\Debug\netcoreapp2.1\AzureSearch.pdb
